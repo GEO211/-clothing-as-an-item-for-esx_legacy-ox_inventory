@@ -1,0 +1,11 @@
+Config = {}
+Config.removetorso = 15
+Config.removejeans = 14
+Config.removeshoes = 45
+Config.removegloves = 15
+Config.removehelmet = -1
+Config.removeglasses = -1
+Config.removemask = -1
+Config.removetshirt = -1
+Config.removeears = -1
+Config.removebag = 0
